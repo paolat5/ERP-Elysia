@@ -48,3 +48,13 @@ bun run dev
 
 ## Contributing
 Pull requests and feature discussions are welcome. Please open an issue to discuss proposed changes before submitting a PR.
+
+
+
+*******
+Swagger / OpenAPI Documentation: http://localhost:3000/swagger
+
+API Health Check & Database Query: http://localhost:3000/api/health
+
+Root Endpoint: http://localhost:3000
+*******
